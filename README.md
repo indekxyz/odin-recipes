@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first project on the Odin Project called Odin Recipes. In this project I demonstrate my abilities to use basic HTML as well as how to use Git and GitHub.
